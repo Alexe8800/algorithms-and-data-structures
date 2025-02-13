@@ -1,0 +1,16 @@
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\bin\Debug\net5.0\solving algorithms and data structures.exe
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\bin\Debug\net5.0\solving algorithms and data structures.deps.json
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\bin\Debug\net5.0\solving algorithms and data structures.runtimeconfig.json
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\bin\Debug\net5.0\solving algorithms and data structures.runtimeconfig.dev.json
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\bin\Debug\net5.0\solving algorithms and data structures.dll
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\bin\Debug\net5.0\ref\solving algorithms and data structures.dll
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\bin\Debug\net5.0\solving algorithms and data structures.pdb
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.csproj.AssemblyReference.cache
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.AssemblyInfoInputs.cache
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.AssemblyInfo.cs
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.csproj.CoreCompileInputs.cache
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.dll
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\ref\solving algorithms and data structures.dll
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.pdb
+D:\PROG\110a\solving algorithms and data structures\solving algorithms and data structures\obj\Debug\net5.0\solving algorithms and data structures.genruntimeconfig.cache

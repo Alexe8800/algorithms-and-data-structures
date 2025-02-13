@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "seminar", "seminar", "{175BEE7C-FF74-4E96-875D-1C3BE88E5AE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeTask", "HomeTask", "{C2736D1B-BF08-4FC8-BCB5-52F0049F97FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson1", "lesson1\lesson1.csproj", "{31FE197A-9B90-4EFA-A2C3-1FB1410069D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FE197A-9B90-4EFA-A2C3-1FB1410069D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FE197A-9B90-4EFA-A2C3-1FB1410069D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FE197A-9B90-4EFA-A2C3-1FB1410069D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FE197A-9B90-4EFA-A2C3-1FB1410069D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31FE197A-9B90-4EFA-A2C3-1FB1410069D4} = {175BEE7C-FF74-4E96-875D-1C3BE88E5AE6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D4445E-4410-4A9D-A9BA-DEE147594F84}
+	EndGlobalSection
+EndGlobal
