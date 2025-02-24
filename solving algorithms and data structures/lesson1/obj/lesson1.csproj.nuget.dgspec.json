@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROG\\110a\\solving algorithms and data structures\\lesson1\\lesson1.csproj": {}
+    "/home/squonchi/c#/unic/algorithms-and-data-structures/solving algorithms and data structures/lesson1/lesson1.csproj": {}
   },
   "projects": {
-    "D:\\PROG\\110a\\solving algorithms and data structures\\lesson1\\lesson1.csproj": {
+    "/home/squonchi/c#/unic/algorithms-and-data-structures/solving algorithms and data structures/lesson1/lesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROG\\110a\\solving algorithms and data structures\\lesson1\\lesson1.csproj",
+        "projectUniqueName": "/home/squonchi/c#/unic/algorithms-and-data-structures/solving algorithms and data structures/lesson1/lesson1.csproj",
         "projectName": "lesson1",
-        "projectPath": "D:\\PROG\\110a\\solving algorithms and data structures\\lesson1\\lesson1.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "D:\\PROG\\110a\\solving algorithms and data structures\\lesson1\\obj\\",
+        "projectPath": "/home/squonchi/c#/unic/algorithms-and-data-structures/solving algorithms and data structures/lesson1/lesson1.csproj",
+        "packagesPath": "/home/squonchi/.nuget/packages/",
+        "outputPath": "/home/squonchi/c#/unic/algorithms-and-data-structures/solving algorithms and data structures/lesson1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/squonchi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,15 +35,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
